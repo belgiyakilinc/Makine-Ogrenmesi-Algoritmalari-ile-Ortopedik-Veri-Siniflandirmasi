@@ -1,0 +1,1 @@
+# Makine-Ogrenmesi-Algoritmalari-ile-Ortopedik-Veri-Siniflandirmasi
